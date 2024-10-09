@@ -2,7 +2,7 @@
   "name": "telegram-web-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": ".",
+  "homepage": "https://404er.github.io/tele-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
